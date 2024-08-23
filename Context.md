@@ -9,5 +9,7 @@ In this project, I will analyze rape victim cases from 2016, 2017, and 2018 to b
 
 **References:** 
 [1] National Crime Records Bureau Ministry of Home Affairs. _Crime in India 2022_. Statistics Volume I. https://www.ncrb.gov.in/uploads/nationalcrimerecordsbureau/custom/1701607577CrimeinIndia2022Book1.pdf
+
 [2] In India, an exhausted female doctor took a nap at work. What happened next horrified a nation. https://www.abc.net.au/news/2024-08-23/doctor-rape-case-horrifying-india/104252328
+
 [3] Neha Prabhavalkar. Crime in India. https://www.kaggle.com/datasets/nehaprabhavalkar/crime-in-india
