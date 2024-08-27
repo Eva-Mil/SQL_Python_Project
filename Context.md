@@ -8,6 +8,7 @@ Despite the alarming number of reported cases, the conviction rate remains disap
 In this project, I will analyze rape victim cases from 2016, 2017, and 2018 to better understand the patterns and challenges in addressing this critical issue. I will utilize a dataset retrieved from Kaggle, which includes comprehensive data on crimes in India from 2016-2018 [3]. The dataset focuses on crimes against women, cases involving police personnel, and instances of escapees from police custody. Future versions of the dataset may include additional data that could be crucial for analyzing and understanding the underlying factors contributing to the occurrence of these crimes. By expanding the scope of the analysis, we aim to identify patterns and root causes, which can provide valuable insights into why such crimes continue to occur and how they might be effectively addressed.
 
 **References:** 
+
 [1] National Crime Records Bureau Ministry of Home Affairs. _Crime in India 2022_. Statistics Volume I. https://www.ncrb.gov.in/uploads/nationalcrimerecordsbureau/custom/1701607577CrimeinIndia2022Book1.pdf
 
 [2] In India, an exhausted female doctor took a nap at work. What happened next horrified a nation. https://www.abc.net.au/news/2024-08-23/doctor-rape-case-horrifying-india/104252328
