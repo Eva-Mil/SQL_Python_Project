@@ -67,9 +67,9 @@ For questions or further information, please contact [Your Name] at [Your Email]
 This project is licensed under the [Your Chosen License] - see the LICENSE file for details.
 
 # References
-[1] National Crime Records Bureau Ministry of Home Affairs. Crime in India 2022. Statistics Volume I. Link
+[1] National Crime Records Bureau Ministry of Home Affairs. Crime in India 2022. Statistics Volume I. [Link] https://www.ncrb.gov.in/uploads/nationalcrimerecordsbureau/custom/1701607577CrimeinIndia2022Book1.pdf
 
-[2] In India, an exhausted female doctor took a nap at work. What happened next horrified a nation. Link
+[2] In India, an exhausted female doctor took a nap at work. What happened next horrified a nation. [Link] https://www.abc.net.au/news/2024-08-23/doctor-rape-case-horrifying-india/104252328
 
-[3] Neha Prabhavalkar. Crime in India. Link
+[3] Neha Prabhavalkar. Crime in India. [Link] https://www.kaggle.com/datasets/nehaprabhavalkar/crime-in-india
 
