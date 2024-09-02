@@ -52,10 +52,10 @@ To replicate or build upon this analysis, follow these steps:
 - Matplotlib/Seaborn (for visualization)
 - Jupyter Notebook (optional, for interactive analysis)
 
-# Files Included
+ > # Files Included
 - analysis_script.py: Script for performing the descriptive analysis.
 - report.ipynb: Jupyter Notebook with the analysis and findings (if applicable).
-- README.md: This file.
+- README.md: This file.< 
 
 # Contributing
 If you have suggestions for improving the analysis or expanding the scope, please feel free to contribute. Open issues and pull requests are welcome.
