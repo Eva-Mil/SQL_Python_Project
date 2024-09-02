@@ -61,7 +61,7 @@ To replicate or build upon this analysis, follow these steps:
 If you have suggestions for improving the analysis or expanding the scope, please feel free to contribute. Open issues and pull requests are welcome.
 
 # Contact
-For questions or further information, please contact Eva Milona at evamilona1@gmai.com.
+For questions or further information, please contact Eva Milona at evamilona1@gmail.com.
 
 
 # References
