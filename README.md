@@ -40,7 +40,7 @@ Future versions of the dataset may include additional contextual data, allowing 
 # Getting Started
 To replicate or build upon this analysis, follow these steps:
 
-**Download the Dataset**: Obtain the dataset from Kaggle [Link] https://www.kaggle.com/datasets/nehaprabhavalkar/crime-in-india .
+**Download the Dataset**: Obtain the dataset from Kaggle [Link](https://www.kaggle.com/datasets/nehaprabhavalkar/crime-in-india) 
 **Data Preparation**: Preprocess the data according to the analysis requirements.
 **Analysis**: Use the provided scripts and tools for conducting the descriptive analysis.
 **Results**: Review the findings and insights in the provided analysis reports.
@@ -65,9 +65,9 @@ For questions or further information, please contact Eva Milona at evamilona1@gm
 
 
 # References
-[1] National Crime Records Bureau Ministry of Home Affairs. Crime in India 2022. Statistics Volume I. [Link] https://www.ncrb.gov.in/uploads/nationalcrimerecordsbureau/custom/1701607577CrimeinIndia2022Book1.pdf
+[1] National Crime Records Bureau Ministry of Home Affairs. Crime in India 2022. Statistics Volume I. [Link](https://www.ncrb.gov.in/uploads/nationalcrimerecordsbureau/custom/1701607577CrimeinIndia2022Book1.pdf)
 
-[2] In India, an exhausted female doctor took a nap at work. What happened next horrified a nation. [Link] https://www.abc.net.au/news/2024-08-23/doctor-rape-case-horrifying-india/104252328
+[2] In India, an exhausted female doctor took a nap at work. What happened next horrified a nation. [Link](https://www.abc.net.au/news/2024-08-23/doctor-rape-case-horrifying-india/104252328)
 
-[3] Neha Prabhavalkar. Crime in India. [Link] https://www.kaggle.com/datasets/nehaprabhavalkar/crime-in-india
+[3] Neha Prabhavalkar. Crime in India. [Link](https://www.kaggle.com/datasets/nehaprabhavalkar/crime-in-india)
 
