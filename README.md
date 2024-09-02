@@ -40,7 +40,7 @@ Future versions of the dataset may include additional contextual data, allowing 
 # Getting Started
 To replicate or build upon this analysis, follow these steps:
 
-**Download the Dataset**: Obtain the dataset from Kaggle [link to dataset].
+**Download the Dataset**: Obtain the dataset from Kaggle [Link] https://www.kaggle.com/datasets/nehaprabhavalkar/crime-in-india .
 **Data Preparation**: Preprocess the data according to the analysis requirements.
 **Analysis**: Use the provided scripts and tools for conducting the descriptive analysis.
 **Results**: Review the findings and insights in the provided analysis reports.
@@ -61,10 +61,8 @@ To replicate or build upon this analysis, follow these steps:
 If you have suggestions for improving the analysis or expanding the scope, please feel free to contribute. Open issues and pull requests are welcome.
 
 # Contact
-For questions or further information, please contact [Your Name] at [Your Email].
+For questions or further information, please contact Eva Milona at evamilona1@gmai.com.
 
-# License
-This project is licensed under the [Your Chosen License] - see the LICENSE file for details.
 
 # References
 [1] National Crime Records Bureau Ministry of Home Affairs. Crime in India 2022. Statistics Volume I. [Link] https://www.ncrb.gov.in/uploads/nationalcrimerecordsbureau/custom/1701607577CrimeinIndia2022Book1.pdf
