@@ -56,8 +56,8 @@ To replicate or build upon this analysis, follow these steps:
 # Files Included
 - SQL_Python_Project-Crimes in India-checkpoint.ipynb: Jupyter notebook with analysis and findings.
 - requirements: The required libraries.
-- datapreparation: (optional)
-- Report: coming soon
+- datapreparation: optional
+- Report: Coming soon
 
 # Contributing
 If you have suggestions for improving the analysis or expanding the scope, please feel free to contribute. Open issues and pull requests are welcome.
