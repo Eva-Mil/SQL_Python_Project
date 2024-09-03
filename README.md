@@ -41,7 +41,7 @@ Future versions of the dataset may include additional contextual data, allowing 
 To replicate or build upon this analysis, follow these steps:
 
 **Download the Dataset**: Obtain the dataset from Kaggle [Link](https://www.kaggle.com/datasets/nehaprabhavalkar/crime-in-india) 
-**Data Preparation**: Preprocess the data according to the analysis requirements.
+**Data Preparation**: Preprocess the data according to the analysis requirements (see datapreparation).
 **Analysis**: Use the provided scripts and tools for conducting the descriptive analysis.
 **Results**: Review the findings and insights in the provided analysis reports.
 
@@ -51,11 +51,13 @@ To replicate or build upon this analysis, follow these steps:
 - Pandas
 - Matplotlib/Seaborn (for visualization)
 - Jupyter Notebook (optional, for interactive analysis)
+- SQLalchemy
 
- > # Files Included
-- analysis_script.py: Script for performing the descriptive analysis.
-- report.ipynb: Jupyter Notebook with the analysis and findings (if applicable).
-- README.md: This file. 
+# Files Included
+- SQL_Python_Project-Crimes in India-checkpoint.ipynb: Jupyter notebook with analysis and findings.
+- requirements: The required libraries.
+- datapreparation: (optional)
+- Report: coming soon
 
 # Contributing
 If you have suggestions for improving the analysis or expanding the scope, please feel free to contribute. Open issues and pull requests are welcome.
