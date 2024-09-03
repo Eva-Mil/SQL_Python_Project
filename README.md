@@ -1,5 +1,5 @@
 # SQL_Python_Project
-
+# Project 1: Crimes in India
 # Introduction
 On August 9th, a young female resident at a hospital in New Delhi was sexually assaulted and murdered by male on-duty doctors. Unfortunately, such horrific crimes are not isolated incidents. Based on government crime data from 2022 [1], and according to an analysis conducted by ABC [2], these types of crimes occur on average every 17 minutes in India. The data reveals that between 2017 and 2022, there were 189,000 reported rape cases across the country, with more than 31,000 of those cases occurring in 2022 alone.
 
