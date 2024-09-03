@@ -1,0 +1,26 @@
+# Rename variables for easier use
+
+S. No: id
+Category: category
+State/UT: state
+Cases Reported: cs_rep
+Child Victims of Rape (Below 18 Yrs) - Below 6 Years: ch_below_6
+Child Victims of Rape (Below 18 Yrs) - 6 Years & Above - Below 12 Years: ch_6_to_12
+Child Victims of Rape (Below 18 Yrs) - 12 Years & Above - Below 16 Years: ch_12_to_16
+Child Victims of Rape (Below 18 Yrs) - 16 Years & Above - Below 18 Years: ch_16_to_18
+Child Victims of Rape (Below 18 Yrs) - Total Girl/Child Victims: tot_ch
+Women Victims of Rape (Above 18 Yrs) - 18 Years & Above - Below 30 Years: wm_18_to_30
+Women Victims of Rape (Above 18 Yrs) - 30 Years & Above - Below 45 Years: wm_30_to_45
+Women Victims of Rape (Above 18 Yrs) - 45 Years & Above - Below 60 Years: wm_45_to_60
+Women Victims of Rape (Above 18 Yrs) - 60 Years & Above: wm_above_60
+Women Victims of Rape (Above 18 Yrs) - Total Women/Adult Victims: tot_wm
+Total Victims: tot_vic
+
+
+(15 variables for 2016, 2017, 2018)
+
+
+
+
+
+
