@@ -1,0 +1,4 @@
+pandas==2.2.2
+sqlalchemy==2.0.32
+plotly==5.23.0
+matplotlib==3.8.4
