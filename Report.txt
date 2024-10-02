@@ -23,7 +23,7 @@ In conclusion, the analysis of reported rape cases across various age groups and
 If anyone possesses additional data or information that could further illuminate these issues, I would be eager to explore it and help explain the reasons behind these fluctuations more comprehensively. Together, we can work towards developing effective strategies to address and prevent sexual violence in our communities.
 
 
-[1] Link 
-[2] Link 
-[3] Link 
-[4] Link 
+[1] Link (https://www.ncrb.gov.in/uploads/nationalcrimerecordsbureau/custom/1701607577CrimeinIndia2022Book1.pdf)
+[2] Link (https://www.abc.net.au/news/2024-08-23/doctor-rape-case-horrifying-india/104252328)
+[3] Link (https://www.kaggle.com/datasets/nehaprabhavalkar/crime-in-india)
+[4] Link (https://www.statista.com/statistics/632790/reported-rape-cases-by-state-india/)
